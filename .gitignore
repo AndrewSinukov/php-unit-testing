@@ -1,0 +1,15 @@
+###> symfony/framework-bundle ###
+/vendor/
+###< symfony/framework-bundle ###
+
+###> project-directory ###
+/.idea
+
+
+###> symfony/phpunit-bridge ###
+/.phpunit
+/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+# testing
+/coverage
